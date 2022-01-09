@@ -19,4 +19,4 @@ Install the required dependencies
 ```bash
 pip install -r requirements.txt
 ```
-Recomded: use a dedicated virtual env or anaconda for easy dependency management
+Recomended: use a dedicated virtual env or anaconda for easy dependency management
